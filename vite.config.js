@@ -9,7 +9,7 @@ export default defineConfig({
       registerType: "autoUpdate",
       includeAssets: ["favicon.svg", "robots.txt"],
       manifest: {
-        name: "React Calendar App",
+        name: " Calendar WPA",
         short_name: "Calendar",
         description: "A simple calendar PWA app using React",
         theme_color: "#ffffff",
